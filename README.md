@@ -3,9 +3,9 @@
 ![YouTube](https://github.com/LuckyIndraEfendi/ekatalog-app/blob/main/thumbnail.png)
 
 # Technologi
-✅ Codeigniter 4
-✅ Boostrap 5
-✅ Ion Auth (For Autentication Login)
+✅ Codeigniter 4 </br>
+✅ Boostrap 5 </br>
+✅ Ion Auth (For Autentication Login) </br>
 ✅ 
 
 # Read About the Framework Documentation
